@@ -1,1 +1,1 @@
-# Sistema_de_Gestao_de_Estoque_para_EletroTech
+# Sistema de Gestao de Estoque para EletroTech
